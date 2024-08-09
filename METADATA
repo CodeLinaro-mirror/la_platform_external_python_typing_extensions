@@ -1,0 +1,16 @@
+name: "typing_extensions"
+description:
+    "Static Typing for Python"
+
+third_party {
+homepage: "https://github.com/python/typing_extensions"
+  identifier {
+    type: "Git"
+    value: "https://github.com/python/typing_extensions"
+    primary_source: true
+    version: "4.12.1"
+  }
+  version: "4.12.1"
+  last_upgrade_date { year: 2024 month: 6 day: 21 }
+  license_type: NOTICE
+}
